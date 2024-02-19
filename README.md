@@ -35,7 +35,7 @@ Optimization:
 
 ## Screenshots
 
-![](resources\screenshot\1.png)
+![](resources/screenshot/1.png)
 
 ## Technical details
 
