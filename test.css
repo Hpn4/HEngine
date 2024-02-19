@@ -1,0 +1,8 @@
+label {
+	color: red;
+	font-size: 100;
+	bevel-border: raised red;
+	background: white;
+	padding: 10;
+	margin: 10;
+}

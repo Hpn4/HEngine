@@ -1,0 +1,48 @@
+nmbItem:9
+
+// 1 Voitures
+item:hengine scene.gltf
+position:-20 0 10
+scale:0.9
+rotation:-90 0 90
+
+item: plane.obj
+scale:150
+color:0.4 0.4 0.4 1
+
+item:buildings/craper craper.obj
+position:-10 0 -11
+scale:0.03
+color:0.7 0.7 0.7 1
+
+// 1 poteaux electriques
+item:environnement/road/elektrika elektr_1.fbx
+position:-40 0 13
+scale:100
+
+// 2 lampadaire
+item:environnement/road/svet svet_11.fbx
+position:-30 0 -4
+rotation:0 180 0
+scale:80
+
+item:environnement/road/svet svet_11.fbx
+position:-10 0 -4
+rotation:0 180 0
+scale:80
+
+// Les 3 routes droites
+item:environnement/route route.fbx
+rotation:0 90 0
+position:-40 -9.8 5
+scale:10
+
+item:environnement/route route.fbx
+rotation:0 90 0
+position:-20 -9.8 5
+scale:10
+
+item:environnement/route route.fbx
+rotation:0 90 0
+position:0 -9.8 5
+scale:10
